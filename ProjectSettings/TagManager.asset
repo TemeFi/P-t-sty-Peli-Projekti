@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spawn
+  - SpawnMoveTo
+  - Station
+  - Unit
+  - SpawnButton
+  - UnitTurret
+  - UnitHeavyTurret
+  - Enemy
+  - SceneContr
+  - us1
+  - us2
+  - us3
+  - us4
+  - us5
+  - us6
+  - us7
+  - us8
+  - us9
+  - us10
+  - us0
+  - Money
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BackgroundImage
+  - BuyButton
+  - Player
+  - Enemy
+  - Earth
+  - MiniMap
+  - Station
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1872376391
+    locked: 0
